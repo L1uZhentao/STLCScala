@@ -1,4 +1,4 @@
-# Smart Contract Static Analyzer
+# Simple Typed Lambda Caculus
 This is course project at EPFL "F0undation of Pr0gramming Languange"
 
 This project implements a Interpreter for Simple Typed Lambda Caculus with some extensions. 
